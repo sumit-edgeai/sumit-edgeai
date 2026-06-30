@@ -10,8 +10,8 @@ An 18-year semiconductor veteran specializing in hardware-level silicon firmware
 
 * 🌍 **Targeting:** Global R&D Leadership, Principal Edge AI Architecture Tracks, & Fully Funded Industrial PhD Positions.
 * 🎓 **Current Focus:** Concluding M.Tech Dissertation in Advanced AIML Frameworks (Graduating Sept 2026).
-* 📧 **Contact:** [sumit.edgeai@gmail.com](mailto:sumit.edgeai@gmail.com)
-* 💼 **LinkedIn:** [sumit-edgeai](https://www.linkedin.com/in/sumit-edgeai/)
+- 📧 **Contact:** [sumit.edgeai@gmail.com](mailto:sumit.edgeai@gmail.com)
+- 💼 **LinkedIn:** [sumit-edgeai](https://linkedin.com)
 
 ---
 
